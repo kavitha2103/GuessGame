@@ -1,0 +1,61 @@
+#number-guess,
+#result,
+#history {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+#history {
+    margin-top: 16px;
+}
+
+.banner {
+    color: #FFD23F;
+    font-size: 90px;
+    font-family: sans-serif;
+}
+
+.background {
+    /* background-image: url("D:/guess-the-number-puzzle-xl.jpg"); */
+    background-image: url("D:/guess-the-number-puzzle-xl.jpg");
+    background-position: initial;
+    background-size: 2000px;
+    background-position-y: 200px;
+}
+
+#list-group {
+    background-color: burlywood;
+}
+
+.result-border {
+    color: darkblue;
+    font-family: -webkit-body;
+    font-style: italic;
+    background-color: gainsboro;
+    border-color: aliceblue;
+    border-radius: 25px;
+}
+
+.history {
+    color: darkblue;
+    font-family: -webkit-body;
+    font-style: italic;
+    background-color: gainsboro;
+    border-color: aliceblue;
+    border-radius: 25px;
+}
+
+.banner-header {
+    color: azure;
+    font-size: 90px;
+    font-family: cursive;
+}
+
+.success-div {
+    color: #155724;
+    font-family: -webkit-body;
+    font-style: italic;
+    background-color: gainsboro;
+    border-color: aliceblue;
+    border-radius: 25px;
+}
